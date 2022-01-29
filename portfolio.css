@@ -1,0 +1,161 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: #00b3b3;
+}
+
+.showcase_img {
+    width: 25wh;
+    height: 25vh;
+    margin-top: 20px;
+    margin-left: 25px;
+    display: inline;
+}
+
+.content {
+    padding-top: 10px;
+    font-size: 2rem;
+    font-style: italic;
+    text-align: center;
+    padding-right: 0px;
+}
+
+.logo_png {
+    height: 10vh;
+    width: 5vw;
+}
+
+.smalldiv {
+    height: 8vh;
+    width: 4vw;
+    margin-right: 20px;
+    padding-left: 10px;
+    border-left: 5px;
+}
+
+.sideNav {
+    text-decoration: none;
+}
+
+.G_png {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #131312;
+    justify-content: center;
+}
+
+.pro {
+    display: inline-block;
+    display: flex;
+}
+
+.topicdiv {
+    list-style-type: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+p {
+    font-size: 2rem;
+    justify-items: flex-start;
+}
+
+.cert_cont {
+    text-align: center;
+    border-color: fuchsia;
+    border-style: double;
+    border-width: 20px;
+}
+
+.p3 {
+    font-size: 5px;
+}
+
+.langdiv {
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    border-style: groove;
+    border-color: black;
+    border-width: 10 px;
+    box-sizing: border-box;
+}
+
+.skillDiv {
+    margin-left: 45px;
+    margin-right: 45px;
+    text-align: center;
+}
+
+.skillImg {
+    width: 8vw;
+    height: 16vh;
+}
+
+.contact_img {
+    height: 90px;
+    width: 100px;
+    margin-left: 50px;
+}
+
+p {
+    font-size: 1.5rem;
+    padding-top: 10px;
+}
+
+.log_png {
+    height: 45vh;
+    width: 40vw;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-style: solid;
+    border-color: rgb(9, 243, 87);
+}
+
+.calls {
+    justify-content: center;
+    display: inline-flex;
+    font-size: 12px;
+    border-style: solid;
+    border-color: rgb(4, 48, 128);
+    border-width: 8px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.const {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+    font-style: italic;
+}
+
+.contactdiv {
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+a:link,
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+.titleLogos {
+    margin-right: 30px;
+}
